@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danobiero
-- 👀 I’m interested in ...app development using react/javascript/html/css/php/mysql/
-- 🌱 I’m currently learning ...mobile app development
+- 👀 Master...app development using react/javascript/html/css/php/mysql/
+- 🌱 Master...mobile app development
 - 💞️ I’m looking to collaborate on ...mobile app development
 - 📫 How to reach me ...danobiero.developer@gmail.com
 
